@@ -21,11 +21,7 @@ How to run Stable Diffusion 1.5 on Lichee Pi Console 4A
 |------------------------------------------|-----------------------------|
 | An astronaut riding a horse oon Mars     | ![Result #2](result02.png)  |
 | A grey sky over a futuristic port city   | ![Result #3](result03.png)  |
-| A wizard with olive skin holding a       | ![Result #4](result04.png)  |
-| grimoire with a mechanical               |                             |
-| pig familiar                             |                             |
-| A wizard with olive skin holding a       | ![Result #5](result05.png)  |
-| book with a small pig companion          |                             |
-| A dwarf engineer with a copper helmet    | ![Result #6](result06.png)  |
-| assembling a cyberpunk neon display      |                             |
+| A wizard with olive skin holding a grimoire with a mechanical pig familiar | ![Result #4](result04.png)  |
+| A wizard with olive skin holding a book with a small pig companion | ![Result #5](result05.png)  |
+| A dwarf engineer with a copper helmet assembling a cyberpunk neon display | ![Result #6](result06.png)  |
 
