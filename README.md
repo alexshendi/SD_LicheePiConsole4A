@@ -26,4 +26,7 @@ How to run Stable Diffusion 1.5 on Lichee Pi Console 4A
 | A dwarf engineer with a copper helmet assembling a cyberpunk neon display | ![Result #6](result06.png)  |
 | A street in Innsmouth during Christmas time. A few vaguely fish-looking people are walking by.| ![Result #7](result07.png)  |
 | A remote street in a small New England town during Christmas time. A few people are walking by, avoiding to look at each other. | ![Result #8](result08.png)  |
+| A futuristic cyberpunk hacker with his cyberdeck eating a bowl of spaghetti | ![Result #9](result09.png)  |
+
+I need to stop adding more examples :)
 
