@@ -10,8 +10,8 @@ How to run Stable Diffusion 1.5 on Lichee Pi Console 4A
    to "-march=rv64gcv0p7_zfh" 
 6. build OnnxStream as outlined in the build instructions
 7. Download the weights and decompress in the models directory from:
-   [OnnxStream github](https://github.com/vitoplantamura/OnnxStream/releases/wonload/v0.1/STableDiffusion-OnnxStream-Windows-x64-with-weights.rar) an unpack
-8. Get [merge.txt](https://huggingface.co/runwayml/stable-diffusion-v1-5/reseolve/main/tokenizer/merges.txt) and copy to <Model Dir>/SD/tokenizer/
+   [OnnxStream github](https://github.com/vitoplantamura/OnnxStream/releases/download/v0.1/STableDiffusion-OnnxStream-Windows-x64-with-weights.rar) and unpack
+8. Get [merge.txt](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/tokenizer/merges.txt) and copy to <Model Dir>/SD/tokenizer/
 9. Delete sd.exe and replace with "sd" from step 6
 10. Enjoy
 
